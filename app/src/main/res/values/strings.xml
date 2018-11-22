@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AutoComplete_TextView</string>
+    <string-array name="Suggestion">
+        <item>Abhi</item>
+        <item>Kshitij</item>
+        <item>Simran</item>
+        <item>Anu</item>
+        <item>Shephali</item>
+        <item>ChulBhul Pandey</item>
+        <item>Deepak</item>
+        <item>Abhishek</item>
+        <item>Amit</item>
+        <item>Aman</item>
+        <item>Charul</item>
+        </string-array>
+</resources>
